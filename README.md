@@ -4,7 +4,6 @@
 ***
 - 🟢 Please call me GREEN
 - 🌱 I’m currently learning iOS & Swift
-- 📫 How to reach me: humains29@gmail.com
 
 #### My Career
 ***
