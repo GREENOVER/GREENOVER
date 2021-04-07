@@ -20,7 +20,7 @@
 ***
 - techniques that I usually use 🍎 <br>
  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logoColor=white"/></a> <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logoColor=white"/></a> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logoColor=white"/></a> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logoColor=white"/></a> <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logoColor=white"/></a> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logoColor=white"/>
-- techniques I've used at least once 🖌 <br>
+- techniques that I've used at least once 🖌 <br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logoColor=white"/></a> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=white"/></a> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logoColor=white"/></a> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logoColor=white"/></a> <img src="https://img.shields.io/badge/Vapor-0D0D0D?style=flat-square&logoColor=white"/>
 
 #### Know Me 💡
