@@ -14,7 +14,7 @@
   - Participated in a SAP & WMS project
 - 🏢 2017.04 ~ 2018.04 Worked for [NHN ENTERTAINMENT](https://www.nhn.com/ko/index.nhn)
   - Worked in Mobile QA department
-  - Participated in the launching of a [Mobile Hangame Sudda](https://apps.apple.com/kr/app/한게임-섯다/id1471942989) 🕹 
+  - Participated in the launching of [Mobile Hangame Sudda](https://apps.apple.com/kr/app/한게임-섯다/id1471942989) 🕹 
  
 #### Tech Stack 🖥
 ***
