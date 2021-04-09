@@ -27,6 +27,8 @@
 ***
 - Post my studies steadily on blog 📝 <br>
 <a href="https://green1229.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://green1229.tistory.com"/></a>
+- Post daily my new knowledge and activities 📖 <br>
+[![TIL Blog Badge](http://img.shields.io/badge/-Today%20I%20Learned-181717?style=flat-square&logo=github&link=https://github.com/GREENOVER/Today-I-Learned/)](https://github.com/GREENOVER/Today-I-Learned)
 - Contact through online ✉️ <br>
 <a href="mailto:humains29@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=humains29@gmail.com"/></a>
 
