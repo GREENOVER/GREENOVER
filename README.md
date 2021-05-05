@@ -32,6 +32,9 @@
 [![TIL Blog Badge](http://img.shields.io/badge/-Today%20I%20Learned-181717?style=flat-square&logo=github&link=https://github.com/GREENOVER/Today-I-Learned/)](https://github.com/GREENOVER/Today-I-Learned)
 - Contact through online ✉️ <br>
 <a href="mailto:humains29@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=humains29@gmail.com"/></a>
+- Let me Introduce 🙋🏻‍♂️<br>
+<a href=https://www.notion.so/iOS-b4fe80a05c014a5295b336ad8aa3b134><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logoColor=white&link=https://www.notion.so/iOS-b4fe80a05c014a5295b336ad8aa3b134"/></a>
+
 
 #### Besides 💾
 ***
