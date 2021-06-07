@@ -12,7 +12,8 @@
   - 1st Camper GREEN
 - 🏢 2018.04 ~ 2020.10 Worked for [OTTOGI](http://ottogi.co.kr/main/main.asp) 
   - Worked in the IT department
-  - Participated in a SAP & WMS project
+  - Participated in a SAP & WMS & TMS project
+  - Participated in a Company Collaboration Tools project
 - 🏢 2017.04 ~ 2018.04 Worked for [NHN ENTERTAINMENT](https://www.nhn.com/ko/index.nhn)
   - Worked in Mobile QA department
   - Participated in the launching of [Mobile Hangame Sudda](https://apps.apple.com/kr/app/한게임-섯다/id1471942989) 🕹 
