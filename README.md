@@ -3,19 +3,21 @@
 ### Welcome Everyone 👋
 ***
 - 🟢 Please call me GREEN
-- 🌱 I’m currently learning iOS & Swift
+- 🌱 I’m an iOS Developer
 - 📫 How to reach me: humains29@gmail.com
 
 #### My Career
 ***
+- 🏢 2021.07 ~ Working for [jeongyookgak](https://www.jeongyookgak.com/index)
+  - Working as an iOS Developer
 - 🧑🏻‍💻 2020.11 ~ 2021.04 Studied at [Yagom iOS Career Start Camp](https://github.com/yagom-academy) 🐻
   - 1st Camper GREEN
 - 🏢 2018.04 ~ 2020.10 Worked for [OTTOGI](http://ottogi.co.kr/main/main.asp) 
-  - Worked in the IT department
+  - Worked in the IT department, ProjectManager & Developer
   - Participated in a SAP & WMS & TMS project
   - Participated in a Company Collaboration Tools project
 - 🏢 2017.04 ~ 2018.04 Worked for [NHN ENTERTAINMENT](https://www.nhn.com/ko/index.nhn)
-  - Worked in Mobile QA department
+  - Worked in Mobile QA department, TestEngineer
   - Participated in the launching of [Mobile Hangame Sudda](https://apps.apple.com/kr/app/한게임-섯다/id1471942989) 🕹 
  
 #### Tech Stack 🖥
