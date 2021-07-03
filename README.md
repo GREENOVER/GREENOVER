@@ -8,7 +8,7 @@
 
 #### My Career
 ***
-- 🏢 2021.07 ~ Working for [jeongyookgak](https://www.jeongyookgak.com/index)
+- 🏢 2021.07 ~ Working for [JEONGYOOKGAK](https://www.jeongyookgak.com/index)
   - Working as an iOS Developer
 - 🧑🏻‍💻 2020.11 ~ 2021.04 Studied at [Yagom iOS Career Start Camp](https://github.com/yagom-academy) 🐻
   - 1st Camper GREEN
