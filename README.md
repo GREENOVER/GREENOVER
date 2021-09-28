@@ -10,7 +10,7 @@
 ***
 - 🏢 2021.07 ~ Working for [JEONGYOOKGAK](https://www.jeongyookgak.com/index)
   - Working as an iOS Developer
-- 🧑🏻‍💻 2020.11 ~ 2021.04 Studied at [Yagom iOS Career Start Camp](https://github.com/yagom-academy) 🐻
+- 🧑🏻‍💻 2020.11 ~ 2021.04 Studied at [Yagom iOS Career Start Camp](https://www.yagom-academy.kr/about) 🐻
   - 1st Camper GREEN
 - 🏢 2018.04 ~ 2020.10 Worked for [OTTOGI](http://ottogi.co.kr/main/main.asp) 
   - Worked in the IT department, ProjectManager & Developer
