@@ -3,7 +3,7 @@
 ### Welcome Everyone 👋
 ***
 - 🟢 Please call me GREEN
-- 📱 I’m an iOS Developer
+- 📱 I’m an iS Developer
 - 📫 How to reach me: humains29@gmail.com
 
 #### My Career
