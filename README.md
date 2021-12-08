@@ -44,6 +44,6 @@
 
 #### Besides 💾
 ***
-[![trophy](https://github-profile-trophy.vercel.app/?username=GREENOVER&row=1&column=7&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GREENOVER&row=1&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 </br>
 [![GREEN's github stats](https://github-readme-stats.vercel.app/api?username=GREENOVER)](https://github.com/GREENOVER/)
