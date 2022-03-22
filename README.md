@@ -10,7 +10,9 @@
 ***
 - 🏢 2021.07 ~ Working for [JEONGYOOKGAK](https://www.jeongyookgak.com/index)
   - Working as an iOS Developer
-- 🧑🏻‍💻 2022.02 ~ 2022.03 Mentoring at [bithumb Tech Camp](https://www.yagom-academy.kr/bithumb-tech-camp)
+- ⛺️ 2022.03 ~ 2022.07 Involved in a club [Depromeet](https://www.depromeet.com) <🖌>
+  - 11th Member as a iOS Developer
+- 🧑🏻‍💻 2022.02 ~ 2022.03 Mentoring at [bithumb Tech Camp](https://www.yagom-academy.kr/bithumb-tech-camp) 
   - iOS Course Mentor
 - 🧑🏻‍💻 2021.09 ~ Reviewing at [Yagom iOS Career Start Camp](https://www.yagom-academy.kr/about) 🐻
   - Reviewer GREEN
