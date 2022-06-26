@@ -10,6 +10,8 @@
 ***
 - 🏢 2021.07 ~ Working for [JEONGYOOKGAK](https://www.jeongyookgak.com/index)
   - Working as an iOS Developer
+- 🧑🏻‍💻 2022.06 ~ 2022.08 Metoring at [Wanted Pre-Onboarding Course](https://www.wanted.co.kr/events/pre_ob_ios_1)   
+  - iOS Course Mentor
 - ⛺️ 2022.03 ~ 2022.07 Involved in a club [Depromeet](https://www.depromeet.com) <🖌>
   - 11th Member as a iOS Developer
   - Launched App [Mongsil](https://apps.apple.com/kr/app/%EB%AA%BD%EC%8B%A4-mong-seal/id1622154270)   
