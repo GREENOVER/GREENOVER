@@ -48,7 +48,7 @@
 - Contact through online ✉️ <br>
 <a href="mailto:humains29@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=humains29@gmail.com"/></a>
 - Let me Introduce 🙋🏻‍♂️<br>
-<a href=https://www.notion.so/iOS-b4fe80a05c014a5295b336ad8aa3b134><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logoColor=white&link=https://www.notion.so/iOS-b4fe80a05c014a5295b336ad8aa3b134"/></a>
+<a href=https://forest-comet-847.notion.site/iOS-83dcdd2893c249b2ab7cf14753d0e782><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logoColor=white&link=https://www.notion.so/iOS-b4fe80a05c014a5295b336ad8aa3b134"/></a>
 
 
 #### Besides 💾
