@@ -2,7 +2,7 @@
 
 ### Welcome Everyone 👋
 ***
-- 🟢 Please call me GREEN
+- 🟢 Just call me GREEN
 - 📱 I’m an iS Developer
 - 📫 How to reach me: humains29@gmail.com
 
