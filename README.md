@@ -8,8 +8,12 @@
 
 #### My Career
 ***
-- 🏢 2021.07 ~ Working for [JEONGYOOKGAK](https://www.jeongyookgak.com/index)
+- 🏢 2023.02 ~ Working for [Hanwha Life](https://www.hanwhalife.com)
   - Working as an iOS Developer
+- 🏢 2021.07 ~ 2022.12 Worked for [JEONGYOOKGAK](https://www.jeongyookgak.com/index)
+  - Worked as an iOS Developer
+  - Participated in the development of [Food Tech e-commerce App](https://apps.apple.com/kr/app/정육각-언제나-초신선/id1490984523?l=en)
+  - Participated in the development of [Logistics Driver App](https://apps.apple.com/kr/app/정육각-런즈/id1544435627)
 - 🧑🏻‍💻 2022.09 ~ 2022.10 Mentoring at [Wanted Pre-Onboarding Course 2th](https://www.wanted.co.kr/events/pre_ob_ios_2)   
   - iOS Course Mentor
 - 🧑🏻‍💻 2022.06 ~ 2022.08 Mentoring at [Wanted Pre-Onboarding Course 1st](https://www.wanted.co.kr/events/pre_ob_ios_1)   
