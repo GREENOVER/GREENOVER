@@ -10,7 +10,7 @@
 ***
 - 🏢 2023.02 ~ Working for [Hanwha Life](https://www.hanwhalife.com)
   - Working as an iOS Developer
-- ⛺️ 2023.02 ~ Working for [Mash-Up](https://mash-up.kr)
+- ⛺️ 2023.02 ~ Involving in a club [Mash-Up](https://mash-up.kr)
   - 13th Member as an iOS Developer
 - 🏢 2021.07 ~ 2022.12 Worked for [JEONGYOOKGAK](https://www.jeongyookgak.com/index)
   - Worked as an iOS Developer
