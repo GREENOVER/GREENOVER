@@ -10,6 +10,8 @@
 ***
 - 🏢 2023.02 ~ Working for [Hanwha Life](https://www.hanwhalife.com)
   - Working as an iOS Developer
+- ⛺️ 2023.02 ~ Working for [Mash-Up](https://mash-up.kr)
+  - 13th Member as an iOS Developer
 - 🏢 2021.07 ~ 2022.12 Worked for [JEONGYOOKGAK](https://www.jeongyookgak.com/index)
   - Worked as an iOS Developer
   - Participated in the development of [Food Tech e-commerce App](https://apps.apple.com/kr/app/정육각-언제나-초신선/id1490984523?l=en)
@@ -19,7 +21,7 @@
 - 🧑🏻‍💻 2022.06 ~ 2022.08 Mentoring at [Wanted Pre-Onboarding Course 1st](https://www.wanted.co.kr/events/pre_ob_ios_1)   
   - iOS Course Mentor
 - ⛺️ 2022.03 ~ 2022.07 Involved in a club [Depromeet](https://www.depromeet.com) <🖌>
-  - 11th Member as a iOS Developer
+  - 11th Member as an iOS Developer
   - Launched App [Mongsil](https://apps.apple.com/kr/app/%EB%AA%BD%EC%8B%A4-mong-seal/id1622154270)  
   - [Certificate](https://github.com/GREENOVER/GREENOVER/files/9042265/depromeet_certificate.pdf)   
 - 🧑🏻‍💻 2022.02 ~ 2022.03 Mentoring at [bithumb Tech Camp](https://www.yagom-academy.kr/bithumb-tech-camp) 
