@@ -6,12 +6,18 @@
 - 📱 I’m an iS Developer
 - 📫 How to reach me: humains29@gmail.com
 
+#### Conference Speaker
+***
+- [KWDC 2023 - Koreawide Developer Conference](https://kwdc.dev)
+  - Deep dive to SwiftUI Animation
+
 #### My Career
 ***
 - 🏢 2023.02 ~ Working for [Hanwha Life](https://www.hanwhalife.com)
   - Working as an iOS Developer
 - ⛺️ 2023.02 ~ Involving in a club [Mash-Up](https://mash-up.kr)
   - 13th Member as an iOS Developer
+  - Launched App [Shorts](https://apps.apple.com/kr/app/%EC%88%8F%EC%8A%A4-short-news/id6447816671)
 - 🏢 2021.07 ~ 2022.12 Worked for [JEONGYOOKGAK](https://www.jeongyookgak.com/index)
   - Worked as an iOS Developer
   - Participated in the development of [Food Tech e-commerce App](https://apps.apple.com/kr/app/정육각-언제나-초신선/id1490984523?l=en)
