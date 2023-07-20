@@ -6,7 +6,7 @@
 - 📱 I’m an iS Developer
 - 📫 How to reach me: humains29@gmail.com
 
-#### Conference Speaker
+#### Conference Speaker 📣
 ***
 - [KWDC 2023 - Koreawide Developer Conference](https://kwdc.dev)
   - Deep dive to SwiftUI Animation
