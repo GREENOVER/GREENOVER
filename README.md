@@ -16,6 +16,7 @@
 - 🏢 2023.02 ~ Working for [Hanwha Life](https://www.hanwhalife.com)
   - Working as an iOS Developer
   - participated in the development of [Marketing Platform App](https://apps.apple.com/kr/app/lifeplus-tribes/id1631958069)
+  - [Interview](https://www.lifentalk.com/2474)
 - ⛺️ 2023.02 ~ Involving in a club [Mash-Up](https://mash-up.kr)
   - 13th Member as an iOS Developer
   - Launched App [Shorts](https://apps.apple.com/kr/app/%EC%88%8F%EC%8A%A4-short-news/id6447816671)
