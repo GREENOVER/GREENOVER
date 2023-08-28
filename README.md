@@ -6,12 +6,14 @@
 - 📱 I’m an iS Developer
 - 📫 How to reach me: humains29@gmail.com
 
-#### Speaker 📣
+#### Speaker 📣 & Edu 📚
 ***
 - [KWDC 2023 - Koreawide Developer Conference](https://kwdc.dev)
   - Deep dive to SwiftUI Animation
 - [멋쟁이 사자처럼 - 취준진담](https://www.youtube.com/watch?v=HkVYNJubrdk)
   - 현직 iOS 앱 개발자의 취준 꿀팁 특강
+- [Fast campus iOS 강의](https://fastcampus.co.kr/dev_online_ios)
+  - 네카라쿠배 5개 앱으로 완성하는 iOS 앱개발 중 N사 음성메모앱을 통한 SwiftUI 강의
 
 #### My Career
 ***
