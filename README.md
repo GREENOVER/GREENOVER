@@ -10,7 +10,7 @@
 ***
 - [KWDC 2023 - Koreawide Developer Conference](https://kwdc.dev)
   - Deep dive to SwiftUI Animation
-- [2023 SW 마이스터고 연합 토크 콘서트](https://www.etnews.com/20230814000179)
+- [2023 SW 마이스터고 연합 토크 콘서트](https://www.etnews.com/20230826000118)
   - 앱 개발자가 되기까지의 과정, 그리고 취업을 위한 노력 주제 강연
 - [멋쟁이 사자처럼 - 취준진담](https://www.youtube.com/watch?v=HkVYNJubrdk)
   - 현직 iOS 앱 개발자의 취준 꿀팁 특강
