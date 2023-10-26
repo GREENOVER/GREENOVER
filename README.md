@@ -14,6 +14,8 @@
   - 앱 개발자가 되기까지의 과정, 그리고 취업을 위한 노력 주제 강연
 - [멋쟁이 사자처럼 - 취준진담](https://www.youtube.com/watch?v=HkVYNJubrdk)
   - 현직 iOS 앱 개발자의 취준 꿀팁 특강
+- [멋쟁이 사자처럼 - 취준진담 2탄](https://www.youtube.com/watch?v=PwRq0tmX6ok)
+  - 신입 개발자 취업 전 필수 역량
 - [Fast campus iOS 강의](https://fastcampus.co.kr/dev_online_ios)
   - 네카라쿠배 5개 앱으로 완성하는 iOS 앱개발 중 N사 음성메모앱을 통한 SwiftUI 강의
 
