@@ -54,7 +54,7 @@
   - iOS Course Mentor
 - 🧑🏻‍💻 2021.09 ~ Reviewing at [Yagom iOS Career Start Camp](https://www.yagom-academy.kr/about) 🐻
   - Reviewer GREEN
-  - [Refactoring Course](https://www.yagom-academy.kr/refactoring-ios] Reviewer (2024.01 ~ 2023.02)
+  - [Refactoring Course](https://www.yagom-academy.kr/refactoring-ios) Reviewer (2024.01 ~ 2023.02)
   - [Interview](https://www.yagom-academy.kr/blog/32)
 - 🧑🏻‍💻 2020.11 ~ 2021.04 Studied at [Yagom iOS Career Start Camp](https://www.yagom-academy.kr/about) 🐻
   - 1st Camper GREEN
