@@ -28,7 +28,7 @@
   - [Youtube Interview](https://www.youtube.com/watch?v=eX10-rvUctg)
 - ⛺️ 2023.02 ~ Involving in a club [Mash-Up](https://mash-up.kr)
   - 13th Member as an iOS Developer
-  - Launched App [Shorts](https://apps.apple.com/kr/app/%EC%88%8F%EC%8A%A4-short-news/id6447816671)
+    - Launched App [Shorts](https://apps.apple.com/kr/app/%EC%88%8F%EC%8A%A4-short-news/id6447816671)
   - 14th iOS Team Leader
 - 🧑🏻‍💻 2023.11 ~ Tutoring at [SPARTA CODING CLUB](https://nbcamp.spartacodingclub.kr/?utm_source=google&utm_medium=bs&utm_campaign=nbcamp&utm_content=brand&utm_term=스파르타코딩클럽국비&gcl_keyword=스파르타코딩클럽국비&gcl_network=g&gad_source=1&gclid=Cj0KCQiA3uGqBhDdARIsAFeJ5r0oCWxZ3HG-JgELgEhKyWp3pA5uNPoT3R6QXveDPsXRlQUxJknxk8caAkVkEALw_wcB)
   - iOS Tutor
