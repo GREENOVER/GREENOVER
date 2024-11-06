@@ -28,7 +28,7 @@
   - participated in the development of [Marketing Platform App](https://apps.apple.com/kr/app/lifeplus-tribes/id1631958069)
   - [Interview](https://www.lifentalk.com/2474)
   - [Youtube Interview](https://www.youtube.com/watch?v=eX10-rvUctg)
-- ⛺️ 2023.02 ~ Involving in a club [Mash-Up](https://mash-up.kr)
+- ⛺️ 2023.02 ~ 2024.10 Involving in a club [Mash-Up](https://mash-up.kr)
   - 13th Member as an iOS Developer
     - Launched App [Shorts](https://apps.apple.com/kr/app/%EC%88%8F%EC%8A%A4-short-news/id6447816671)
   - 14th iOS Team Leader
