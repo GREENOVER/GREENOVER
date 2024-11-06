@@ -36,9 +36,9 @@
   - iOS Tutor
 - 🧑🏻‍💻 2023.11 ~ Reviewing at [SeSAC](https://sesac.seoul.kr/course/active/detail.do?courseActiveSeq=1629&srchCategoryTypeCd=&courseMasterSeq=361&currentMenuId=900002024)
   - iOS Reviewer
-- ⛺️ 2023.11 ~ Activing at [글또](https://www.notion.so/ac5b18a482fb4df497d4e8257ad4d516)
+- ⛺️ 2023.11 ~ 2024.05 Activing at [글또](https://www.notion.so/ac5b18a482fb4df497d4e8257ad4d516)
   - 9th Member
-- 🧑🏻‍💻 2023.09 ~ Mentoring at [LIKELION](https://techit.education/school/kdt-ios-3rd)
+- 🧑🏻‍💻 2023.09 ~ 2024.09 Mentoring at [LIKELION](https://techit.education/school/kdt-ios-3rd)
   - iOS Mentor
 - 🏢 2021.07 ~ 2022.12 Worked for [JEONGYOOKGAK](https://www.jeongyookgak.com/index)
   - Worked as an iOS Developer
