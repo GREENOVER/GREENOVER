@@ -34,7 +34,7 @@
   - 14th iOS Team Leader
 - 🧑🏻‍💻 2023.11 ~ Tutoring at [SPARTA CODING CLUB](https://nbcamp.spartacodingclub.kr/?utm_source=google&utm_medium=bs&utm_campaign=nbcamp&utm_content=brand&utm_term=스파르타코딩클럽국비&gcl_keyword=스파르타코딩클럽국비&gcl_network=g&gad_source=1&gclid=Cj0KCQiA3uGqBhDdARIsAFeJ5r0oCWxZ3HG-JgELgEhKyWp3pA5uNPoT3R6QXveDPsXRlQUxJknxk8caAkVkEALw_wcB)
   - iOS Tutor
-- 🧑🏻‍💻 2023.11 ~ Reviewing at [SeSAC](https://sesac.seoul.kr/course/active/detail.do?courseActiveSeq=1629&srchCategoryTypeCd=&courseMasterSeq=361&currentMenuId=900002024)
+- 🧑🏻‍💻 2023.11 ~ 2024.05 Reviewing at [SeSAC](https://sesac.seoul.kr/course/active/detail.do?courseActiveSeq=1629&srchCategoryTypeCd=&courseMasterSeq=361&currentMenuId=900002024)
   - iOS Reviewer
 - ⛺️ 2023.11 ~ 2024.05 Activing at [글또](https://www.notion.so/ac5b18a482fb4df497d4e8257ad4d516)
   - 9th Member
