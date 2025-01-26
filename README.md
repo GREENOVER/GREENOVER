@@ -23,7 +23,7 @@
 
 #### My Career
 ***
-- 🏢 2023.02 ~ Working for [Hanwha Life](https://www.hanwhalife.com)
+- 🏢 2023.02 ~ 2025.01 Worked for [Hanwha Life](https://www.hanwhalife.com)
   - Working as an iOS Developer
   - participated in the development of [Marketing Platform App](https://apps.apple.com/kr/app/lifeplus-tribes/id1631958069)
   - [Interview](https://www.lifentalk.com/2474)
