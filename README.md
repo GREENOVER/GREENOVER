@@ -10,6 +10,8 @@
 ***
 - [SwiftRise 2025](https://spartaswiftrise.oopy.io)
   - Automatic Text Replacement (Deep Dive)
+- [2025 앱 개발자 취업 전략 A to Z](https://nbcamp.spartacodingclub.kr/contents/ios)
+  - iOS 부분 앱 개발자 취업 전략 관련 연사
 - [KWDC 2023 - Koreawide Developer Conference](https://kwdc.dev)
   - [Deep dive to SwiftUI Animation](https://www.youtube.com/watch?v=86H8t0yNFA8&list=PLgMxIbiMmK_6hEwiRbTtVqmWCS8bIz5q2)
 - [2023 SW 마이스터고 연합 토크 콘서트](https://www.etnews.com/20230826000118)
