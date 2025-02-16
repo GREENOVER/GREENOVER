@@ -27,6 +27,9 @@
 
 #### My Career
 ***
+- 🏢 2025.02 ~ Working for ...
+  - Working as an Senior iOS Developer
+  - participating in the development of ...
 - 🏢 2023.02 ~ 2025.01 Worked for [Hanwha Life](https://www.hanwhalife.com)
   - Worked as an iOS Developer
   - participated in the development of [Marketing Platform App](https://apps.apple.com/kr/app/lifeplus-tribes/id1631958069)
