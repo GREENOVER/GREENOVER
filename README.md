@@ -27,9 +27,9 @@
 
 #### My Career
 ***
-- 🏢 2025.02 ~ Working for ...
+- 🏢 2025.02 ~ Working for [Coupang](https://www.coupang.jobs/kr/)
   - Working as an Senior iOS Developer
-  - participating in the development of ...
+  - participating in the development of [Coupang Eats](https://www.coupangeats.com)
 - 🏢 2023.02 ~ 2025.01 Worked for [Hanwha Life](https://www.hanwhalife.com)
   - Worked as an iOS Developer
   - participated in the development of [Marketing Platform App](https://apps.apple.com/kr/app/lifeplus-tribes/id1631958069)
