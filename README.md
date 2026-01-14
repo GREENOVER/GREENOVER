@@ -94,10 +94,3 @@
 <a href="mailto:humains29@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=humains29@gmail.com"/></a>
 - Let me Introduce 🙋🏻‍♂️<br>
 <a href="https://forest-comet-847.notion.site/green"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logoColor=white&link=https://www.notion.so/iOS-b4fe80a05c014a5295b336ad8aa3b134"/></a>
-
-
-#### Besides 💾
-***
-[![trophy](https://github-profile-trophy.vercel.app/?username=GREENOVER&row=1&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-</br>
-[![GREEN's github stats](https://github-readme-stats.vercel.app/api?username=GREENOVER)](https://github.com/GREENOVER/)
