@@ -30,7 +30,7 @@
 - 🏢 2026.07 ~ Working for TBU
 - 🏢 2025.02 ~ 2026.06 Worked for [Coupang🚀](https://www.coupang.jobs/kr/)
   - Worked as an Sr. iOS Engineer
-  - participating in the development of [Coupang Eats](https://www.coupangeats.com)
+  - participated in the development of [Coupang Eats](https://www.coupangeats.com)
 - 🏢 2023.02 ~ 2025.01 Worked for [Hanwha Life](https://www.hanwhalife.com)
   - Worked as an iOS Developer
   - participated in the development of [Marketing Platform App](https://apps.apple.com/kr/app/lifeplus-tribes/id1631958069)
