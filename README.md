@@ -28,8 +28,9 @@
 #### My Career
 ***
 - 🏢 2026.07 ~ Working for TBU
+  - Working as an iOS Engineer
 - 🏢 2025.02 ~ 2026.06 Worked for [Coupang🚀](https://www.coupang.jobs/kr/)
-  - Worked as an Sr. iOS Engineer
+  - Worked as a Sr. iOS Engineer
   - participated in the development of [Coupang Eats](https://www.coupangeats.com)
 - 🏢 2023.02 ~ 2025.01 Worked for [Hanwha Life](https://www.hanwhalife.com)
   - Worked as an iOS Developer
